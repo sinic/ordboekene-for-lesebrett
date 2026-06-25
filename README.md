@@ -20,3 +20,7 @@ and produces offline dictionaries (for Bokmål and for Nynorsk!)
 usable both on [KOReader](https://koreader.rocks/)
 and on Kobo's proprietary stock reader,
 with support for other formats easily added.
+
+Pre-generated dictionaries are provided
+[as release assets](https://github.com/sinic/ordboekene-for-lesebrett/releases/tag/v0.1)
+for your comfort.

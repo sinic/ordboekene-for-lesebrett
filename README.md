@@ -21,7 +21,7 @@ usable both on [KOReader](https://koreader.rocks/)
 and on Kobo's proprietary stock reader,
 with support for other formats easily added.
 
-<img src="screenshot.png" width="35%" alt="Screenshot of dictionary on KOReader">
+<img title="KOReader" src="screenshot.png" width="35%" alt="Screenshot of dictionary on KOReader"> <img title="Kobo" src="screenshot2.png" width="35%" alt="Screenshot of dictionary on stock Kobo">
 
 Pre-generated dictionaries are provided
 [as release assets](https://github.com/sinic/ordboekene-for-lesebrett/releases/tag/v0.1)
